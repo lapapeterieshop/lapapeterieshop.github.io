@@ -2,12 +2,13 @@
 layout: post
 title: Sample blog post to learn markdown tips
 subtitle: There's lots to learn!
-gh-repo: daattali/beautiful-jekyll
-gh-badge: [star, fork, follow]
+cover-img: /assets/img/path.jpg
+thumbnail-img: /assets/img/thumb.png
+share-img: /assets/img/path.jpg
 tags: [test]
 comments: true
 mathjax: true
-author: La Papeterie Shop BR
+author: la_papeterie_shop
 ---
 
 {: .box-success}

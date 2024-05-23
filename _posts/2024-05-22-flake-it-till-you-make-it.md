@@ -6,7 +6,9 @@ cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/thumb.png
 share-img: /assets/img/path.jpg
 tags: [books, test]
-author: La Papeterie Shop BR
+comments: true
+mathjax: true
+author: la_papeterie_shop
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis tincidunt orci lorem. Duis ac tincidunt urna. Suspendisse iaculis tempus sem ut congue. Morbi eget placerat eros. Fusce tincidunt imperdiet leo, eu rhoncus augue accumsan vitae. Integer laoreet a leo a pretium. Donec sit amet hendrerit ligula. Curabitur quam nisi, laoreet quis eleifend sed, venenatis eu nulla. Sed sed felis nec arcu facilisis commodo non imperdiet lectus.
