@@ -13,7 +13,8 @@
   --footer-text-col: #777777;
   --footer-link-col: #404040;
   --footer-hover-col: #0085A1;
-
+  --fa-col: #83D7CF;
+  
   /* common CSS variables */
   --body-font: 'Lora', 'Times New Roman', serif;
   --header-font: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
@@ -414,7 +415,7 @@ footer .footer-links a {
   color: var(--text-col);
 }
 footer .footer-links .fa-inverse {
-  color: var(--page-col);
+  color: var(--fa-col);
 }
 
 footer a:hover,
